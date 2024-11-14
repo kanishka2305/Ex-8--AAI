@@ -45,7 +45,7 @@ except sr.RequestError as e:
     print(f'Error with the request to Google Speech Recognition service: {e}')
 except Exception as e:
     print(f'Error: {e}')
-    ```
+```
 
 <H3> Output:</H3>
 
